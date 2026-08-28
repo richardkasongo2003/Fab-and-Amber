@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: 'The Amber & Fabian Archives',
-  description: 'Nine memories. One very special surprise. Unlock the next chapter of Amber and Fabian’s story.',
+  description: 'Nine memories from the story of Amber and Fabian.',
 };
 
 export default function RootLayout({
